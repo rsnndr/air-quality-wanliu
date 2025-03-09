@@ -1,6 +1,7 @@
 streamlit
-babel
 pandas
 numpy
+seaborn
 matplotlib
 requests
+babel
