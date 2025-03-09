@@ -9,6 +9,7 @@ streamlit_env\Scripts\activate.bat
 ```
 pip install numpy pandas matplotlib seaborn
 pip install streamlit
+pip install babel
 python -m pip freeze > requirements.txt
 ```
 ## Run steamlit app
